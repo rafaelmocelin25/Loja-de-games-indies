@@ -13,3 +13,6 @@ body{
 .cabecalho{
     background-color: slateblue;
 }
+.preco{
+    color: rgb(red, green, blue);
+}
