@@ -10,3 +10,6 @@ body{
     background-color:var(--cor-de-fundo) ;
 
 }
+.cabecalho{
+    background-color: color-mix(in srgb-linear, color percentage, color percentage);
+}
