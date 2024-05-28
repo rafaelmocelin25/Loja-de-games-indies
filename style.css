@@ -1,3 +1,12 @@
-#{
-    background-color: blue;
+*{/*seletor uneversal paa resetar as bordas da pagina*/
+    padding: 0px;
+    margin: 0px;
+}
+:root{
+    --cor-de-fundo:rgba(9, 252, 138, 0.521);
+    --cor-da-letra:rgb(0, 0, 0)(255, 0, 0);
+}
+body{
+    background-color:var(--cor-de-fundo) ;
+
 }
