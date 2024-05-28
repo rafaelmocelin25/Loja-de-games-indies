@@ -14,5 +14,5 @@ body{
     background-color: slateblue;
 }
 .preco{
-         background-color: rgb(red, green, blue);
+         background-color:rgba(red, green, blue, alpha);
 }
