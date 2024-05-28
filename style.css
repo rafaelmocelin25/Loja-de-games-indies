@@ -1,0 +1,4 @@
+.pa{
+    color: blue;
+    negative: -moz-element();
+}
