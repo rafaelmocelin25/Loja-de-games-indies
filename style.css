@@ -3,7 +3,7 @@
     margin: 0px;
 }
 :root{
-    --cor-de-fundo:rgba(9, 252, 138, 0.521);
+    --cor-de-fundo:rgba(9, 252, 171, 0.521);
     --cor-da-letra:rgb(0, 0, 0)(255, 0, 0);
 }
 body{
@@ -11,8 +11,5 @@ body{
 
 }
 .cabecalho{
-    background-color: slateblue;
-}
-.preco{
-         background-color:rgba(red, green, blue, alpha);
+    background-color: rgba(137, 255, 225, 0.295);
 }
