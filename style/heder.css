@@ -1,5 +1,5 @@
 .cabecalho{
-    background-color: rgb(255, 255, 255);
+    background-color: rgba(255, 255, 255, 0);
 }
 .cabecalho__menu-hamburguer{
     width: 24px;
