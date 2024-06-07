@@ -1,3 +1,9 @@
 .cabecalho{
     background-color: rgba(137, 255, 225, 0.295);
 }
+.cabecalho__menu-hamburguer{
+    width: 24px;
+    height: 24px;
+    display: inline-block;
+    background-color: url("img/Menu.svg");
+}
