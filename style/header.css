@@ -8,4 +8,12 @@
 }
 .cabecalho{
     background-color:var(--cor-branco);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.container{
+display: flex;
+align-items: center;
+
 }
