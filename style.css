@@ -6,7 +6,7 @@
 }
 
 :root {/* seletor raiz para variáveis*/
-    --cor-de-fundo: rgb(255, 255, 255);
+    --cor-de-fundo: rgb(111, 255, 166);
     --cor-da-letra: rgb(0, 0, 0);
     --cor-branco: white;
 }
